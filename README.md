@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Genshin Artifact Sorter**
 
-- 👨‍💻 All of my projects are available at [https://kingsonzhang.github.io](kingsonzhang.github.io)
+- 👨‍💻 All of my projects are available at [kingsonzhang.github.io](https://kingsonzhang.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
