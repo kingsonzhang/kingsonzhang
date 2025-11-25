@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kingson Zhang</h1>
-<h3 align="center">Computer Engineering Major from Cal Poly Pomona</h3>
-
-- 🔭 I’m currently working on **Genshin Artifact Sorter**
-
-- 👨‍💻 All of my projects are available at [kingsonzhang.github.io](https://kingsonzhang.github.io)
+<h3 align="center">Graduate Student studying Software Engineering at UC Irvine</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
